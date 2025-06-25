@@ -51,15 +51,7 @@ This SQL project aims to:
 
 ---
 
-## 📁 Project Files
 
-| File Name                     | Description                          |
-|------------------------------|--------------------------------------|
-| `SQL QUERY FOR BOOK STORE.pdf` | Presentation of all queries used     |
-| `bookstore_project.sql` (optional) | SQL queries as raw text            |
-| `README.md`                  | Project documentation                |
-
----
 
 ## 🛠️ Tools & Technologies
 
